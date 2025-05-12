@@ -48,29 +48,28 @@ CREATIVE COMBINATION
 • First username: exampleuser
 • Second username: anotheruser
 
-✨ Your styled username:
+**Your styled username**:
 >>> ExampleUserAnotherUser <<<
 (Automatically copied to clipboard)
 ```
 
 ## Styles
-- **Normal**: Standard username, no modifications.
-- **Uppercase**: All characters will be in uppercase.
-- **Lowercase**: All characters will be in lowercase.
-- **Soft Fantasy**: A magical font with beautiful characters.
-- **L33t sp34k**: Common internet speak with numbers replacing letters.
-- **Strikethrough**: The username with a strike-through effect.
-- **Shadow**: Adds spaces between characters for a shadow effect.
-- **Italic**: Transforms the characters into italicized versions.
-- **Underline**: Adds an underline effect to the username.
+- **Normal**: atandard username, no modifications.
+- **Uppercase**: all characters will be in uppercase.
+- **Lowercase**: all characters will be in lowercase.
+- **Soft Fantasy**: a magical font with beautiful characters.
+- **L33t sp34k**: common internet speak with numbers replacing letters.
+- **Strikethrough**: the username with a strike-through effect.
+- **Shadow**: adds spaces between characters for a shadow effect.
+- **Italic**: aransforms the characters into italicized versions.
+- **Underline**: adds an underline effect to the username.
 
 ## License
 This project is free to use for fun! 
 
 Created by: [luciacaminos](https://github.com/luciacaminos)  
 Discord: 6de6  
-GitHub: [https://github.com/luciacaminos](https://github.com/luciacaminos)
 
 ## Acknowledgements
-Special thanks to the developers of `InquirerPy`, `pyperclip`, and `colorama` for their amazing libraries.
+special thanks to the developers of `InquirerPy`, `pyperclip`, and `colorama` for their amazing libraries.
 
